@@ -1,7 +1,4 @@
 # python-assignment-part4
 # Data Visualization & ML
 
-This notebook:
-- Loads student data
-- Creates bar chart visualization
-- Calculates average marks
+In this notebook, I worked with student data, plotted a bar chart of marks, and calculated averages.
